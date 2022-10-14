@@ -10,6 +10,6 @@ public class App
     public static void main( String[] args )
     {
         Math math = new Math();
-        System.out.println( math.sum(4,2));
+        System.out.println( math.sum(4,3));
     }
 }
